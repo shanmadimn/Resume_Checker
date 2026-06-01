@@ -1,10 +1,8 @@
-fastapi
-uvicorn
-pydantic
-python-multipart
+streamlit
 pdfplumber
-python-dotenv
-numpy
-scikit-learn
 sentence-transformers
+scikit-learn
 groq
+torch
+transformers
+numpy
