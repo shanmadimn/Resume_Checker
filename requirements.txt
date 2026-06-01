@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pdfplumber
+python-dotenv
+numpy
+scikit-learn
+sentence-transformers
+groq
